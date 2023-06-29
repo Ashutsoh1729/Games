@@ -1,0 +1,33 @@
+
+
+#body{
+    background-color: rgba(255, 255, 32, 0.903);
+    text-align: center;
+    /* padding: 10rem auto !important; */
+    padding-top: 2rem;
+    font-size: larger;
+}
+
+
+
+
+
+
+
+
+#board{
+    width: 450px;
+    height: 450px;
+    background-color: #FFE8E8;
+    border: 5px solid #D25380;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#board img{
+    height: 50px;
+    width: 50px;
+}
